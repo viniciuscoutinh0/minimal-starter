@@ -9,11 +9,17 @@
         }
     ],
     "require": {
+        "php": "^8.3",
         "viniciuscoutinh0/minimal-core": "dev-main"
     },
     "minimum-stability": "stable",
     "require-dev": {
         "pestphp/pest": "^1.23"
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ]
     },
     "config": {
         "allow-plugins": {
