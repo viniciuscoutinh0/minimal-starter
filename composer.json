@@ -16,11 +16,6 @@
     "require-dev": {
         "pestphp/pest": "^1.23"
     },
-    "scripts": {
-        "post-create-project-cmd": [
-            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
-        ]
-    },
     "config": {
         "allow-plugins": {
             "pestphp/pest-plugin": true
