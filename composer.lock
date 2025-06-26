@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4744cf498f7ac3b6470f27947ca96745",
+    "content-hash": "67ba2f51e1c68c5d5338a82e0f2e0f7e",
     "packages": [
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -2618,16 +2618,16 @@
         },
         {
             "name": "viniciuscoutinh0/minimal-core",
-            "version": "0.1",
+            "version": "0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/viniciuscoutinh0/minimal-core.git",
-                "reference": "ce793179f7722cd76a995847acae1c26020414c8"
+                "reference": "b5b8ae4b4f2776990045e109dbd7ff163a343c23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/viniciuscoutinh0/minimal-core/zipball/ce793179f7722cd76a995847acae1c26020414c8",
-                "reference": "ce793179f7722cd76a995847acae1c26020414c8",
+                "url": "https://api.github.com/repos/viniciuscoutinh0/minimal-core/zipball/b5b8ae4b4f2776990045e109dbd7ff163a343c23",
+                "reference": "b5b8ae4b4f2776990045e109dbd7ff163a343c23",
                 "shasum": ""
             },
             "require": {
@@ -2660,9 +2660,9 @@
             "description": "A minimalistic PHP framework designed for simplicity and small-scale projects",
             "support": {
                 "issues": "https://github.com/viniciuscoutinh0/minimal-core/issues",
-                "source": "https://github.com/viniciuscoutinh0/minimal-core/tree/0.1"
+                "source": "https://github.com/viniciuscoutinh0/minimal-core/tree/0.2"
             },
-            "time": "2025-06-26T17:04:33+00:00"
+            "time": "2025-06-26T18:13:53+00:00"
         },
         {
             "name": "vlucas/phpdotenv",

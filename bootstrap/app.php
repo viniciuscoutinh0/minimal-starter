@@ -11,5 +11,3 @@ $app = Application::make(dirname(__DIR__, 1));
 // $app->registerProvider(new Viniciuscoutinh0\Minimal\Providers\DatabaseProvider);
 
 $app->boot();
-
-$app->view('welcome')->name('welcome');
