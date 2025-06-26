@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c413904b89b40ed3a8e1d0add3e997ac",
+    "content-hash": "4744cf498f7ac3b6470f27947ca96745",
     "packages": [
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -2618,7 +2618,7 @@
         },
         {
             "name": "viniciuscoutinh0/minimal-core",
-            "version": "dev-main",
+            "version": "0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/viniciuscoutinh0/minimal-core.git",
@@ -2638,7 +2638,6 @@
                 "pestphp/pest": "^3.8",
                 "symfony/var-dumper": "^7.3"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "files": [
@@ -2661,7 +2660,7 @@
             "description": "A minimalistic PHP framework designed for simplicity and small-scale projects",
             "support": {
                 "issues": "https://github.com/viniciuscoutinh0/minimal-core/issues",
-                "source": "https://github.com/viniciuscoutinh0/minimal-core/tree/main"
+                "source": "https://github.com/viniciuscoutinh0/minimal-core/tree/0.1"
             },
             "time": "2025-06-26T17:04:33+00:00"
         },
@@ -4951,9 +4950,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "viniciuscoutinh0/minimal-core": 20
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
