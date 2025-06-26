@@ -1,3 +1,5 @@
+![Minimal Logo](https://sdmntprwestus2.oaiusercontent.com/files/00000000-4ffc-61f8-886a-88be179b32a9/raw?se=2025-06-26T19%3A23%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=3eefb482-4ae2-59db-be46-c66c6f42954e&skoid=04233560-0ad7-493e-8bf0-1347c317d021&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-26T08%3A39%3A28Z&ske=2025-06-27T08%3A39%3A28Z&sks=b&skv=2024-08-04&sig=6/M7tDyj7FUzhOiQDNGT6BPOdKxp6zqfhClTnnc7bWQ%3D "Minimal")
+
 # Minimal
 
 Minimal é um framework simples e leve para páginas únicas, ideal para projetos pequenos, dashboards e ferramentas SPA.
