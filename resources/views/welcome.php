@@ -1,4 +1,4 @@
- <main class="min-h-screen flex flex-col items-center justify-center px-4 py-12">
+<main class="min-h-screen flex flex-col items-center justify-center px-4 py-12">
     <div class="max-w-4xl w-full text-center">
       <h1 class="text-4xl sm:text-5xl font-extrabold text-gray-800 mb-2">
         Welcome to <span class="text-black">Minimal</span>

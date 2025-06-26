@@ -37,6 +37,7 @@ RUN apk update && apk add --no-cache \
     php83-dom \
     php83-xmlreader \
     php83-xmlwriter \
+    php83-iconv \
     php83-pear \
     gnupg \
     unixodbc-dev \

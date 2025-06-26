@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "29987ef194094fc89a30f4fa86b95b05",
+    "content-hash": "c413904b89b40ed3a8e1d0add3e997ac",
     "packages": [
         {
             "name": "carbonphp/carbon-doctrine-types",
@@ -1892,19 +1892,20 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.31.0",
+            "version": "v1.32.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341"
+                "reference": "6d857f4d76bd4b343eac26d6b539585d2bc56493"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/85181ba99b2345b0ef10ce42ecac37612d9fd341",
-                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/6d857f4d76bd4b343eac26d6b539585d2bc56493",
+                "reference": "6d857f4d76bd4b343eac26d6b539585d2bc56493",
                 "shasum": ""
             },
             "require": {
+                "ext-iconv": "*",
                 "php": ">=7.2"
             },
             "provide": {
@@ -1952,7 +1953,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.31.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.32.0"
             },
             "funding": [
                 {
@@ -1968,7 +1969,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-09T11:45:10+00:00"
+            "time": "2024-12-23T08:48:59+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
@@ -2621,12 +2622,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/viniciuscoutinh0/minimal-core.git",
-                "reference": "09a403b472c47c60e367566f5bcb7c0d96287da4"
+                "reference": "ce793179f7722cd76a995847acae1c26020414c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/viniciuscoutinh0/minimal-core/zipball/09a403b472c47c60e367566f5bcb7c0d96287da4",
-                "reference": "09a403b472c47c60e367566f5bcb7c0d96287da4",
+                "url": "https://api.github.com/repos/viniciuscoutinh0/minimal-core/zipball/ce793179f7722cd76a995847acae1c26020414c8",
+                "reference": "ce793179f7722cd76a995847acae1c26020414c8",
                 "shasum": ""
             },
             "require": {
@@ -2662,7 +2663,7 @@
                 "issues": "https://github.com/viniciuscoutinh0/minimal-core/issues",
                 "source": "https://github.com/viniciuscoutinh0/minimal-core/tree/main"
             },
-            "time": "2025-06-25T18:03:20+00:00"
+            "time": "2025-06-26T17:04:33+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -4955,7 +4956,9 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": {},
+    "platform": {
+        "php": "^8.3"
+    },
     "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }
